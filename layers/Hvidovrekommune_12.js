@@ -1,0 +1,1 @@
+var json_Hvidovrekommune_12 = {"type":"FeatureCollection","name":"Hvidovrekommune_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Kommune na":"Hvidovre Kommune","Adresse":"Hvidovrevej 278","By":"2650 Hvidovre","Telefonnum":"36 39 36 39"},"geometry":{"type":"Point","coordinates":[12.477605,55.642837]}}]}

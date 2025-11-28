@@ -1,0 +1,1 @@
+var json_HvidovreRdhus_13 = {"type":"FeatureCollection","name":"HvidovreRdhus_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"rådhus na":"Hvidovre Rådhus","Adresse":"Hvidovrevej 278","By":"2650 Hvidovre","Telefonnum":"36 39 36 39"},"geometry":{"type":"Point","coordinates":[12.477605,55.642837]}}]}
